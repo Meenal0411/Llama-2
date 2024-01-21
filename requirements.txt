@@ -45,9 +45,9 @@ pydub==0.25.1
 Pygments==2.17.2
 pypiwin32
 python-dateutil==2.8.2
-pyttsx3==lastes
-pytz==lastes
-pywin32==latest
+pyttsx3==2.90
+pytz==2.90
+pywin32==2.90
 python-dateutil==2.8.2
 PyYAML==6.0.1
 referencing==0.32.0
