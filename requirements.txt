@@ -47,7 +47,6 @@ pypiwin32
 python-dateutil==2.8.2
 pyttsx3==2.90
 pytz
-pywin32
 python-dateutil==2.8.2
 PyYAML==6.0.1
 referencing==0.32.0
